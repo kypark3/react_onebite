@@ -1,15 +1,11 @@
-import "./App.css";
-import Bulb from "./components/Bulb";
-import Counter from "./components/Counter";
+import "./App"
+import Register from "./components/Register";
 
 const App = () => {
   return (
     <>
       <div>
-        <Bulb />
-      </div>
-      <div>
-        <Counter />
+        <Register/>
       </div>
     </>
   );
