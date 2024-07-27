@@ -1,11 +1,11 @@
 import "./App";
-import Register1 from "./components/Register1";
+import HookExam from "./components/HookExam";
 
 const App = () => {
   return (
     <>
       <div>
-        <Register1 />
+        <HookExam/>
       </div>
     </>
   );
