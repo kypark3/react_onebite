@@ -1,11 +1,11 @@
-import "./App"
-import Register from "./components/Register";
+import "./App";
+import Register1 from "./components/Register1";
 
 const App = () => {
   return (
     <>
       <div>
-        <Register/>
+        <Register1 />
       </div>
     </>
   );
